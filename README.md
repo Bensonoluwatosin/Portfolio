@@ -1,1 +1,2 @@
-# _config.yml
+title: benson oluwatosin
+theme: jekyll-theme-minimal
